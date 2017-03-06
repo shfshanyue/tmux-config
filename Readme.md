@@ -6,25 +6,25 @@ $ cp tmux-config/.tmux.conf ~/.tmux.conf
 
 ## Screencast
 
-![Screencast One](//github.com/shfshanyue/tmux-config/blob/master/images/tmux1.jpeg?raw=true)
-![Screencast One](//github.com/shfshanyue/tmux-config/blob/master/images/tmux2.jpeg?raw=true)
+![Screencast One](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/tmux1.jpeg)
+![Screencast One](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/tmux2.jpeg)
 
 ## Animation
 
 ### Attach
-![Attach](//github.com/shfshanyue/tmux-config/blob/master/images/attach-origin.gif?raw=true)
+![Attach](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/attach-origin.gif)
 
 ### Split
-![Split Window](//github.com/shfshanyue/tmux-config/blob/master/images/split-origin.gif?raw=true)
+![Split Window](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/split-origin.gif)
 
 ### Next Layout
-![Next Layout](//github.com/shfshanyue/tmux-config/blob/master/images/respace.gif?raw=true)
+![Next Layout](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/respace.gif)
 
 ### Maximise
-![Maximise](//github.com/shfshanyue/tmux-config/blob/master/images/prefixz-origin.gif?raw=true)
+![Maximise](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/prefixz-origin.gif)
 
 ### Copy Mode
-![Copy](//github.com/shfshanyue/tmux-config/blob/master/images/copy-origin.gif?raw=true)
+![Copy](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/copy-origin.gif)
 
 ### Mouse Mode
-![Mouse Mode](//github.com/shfshanyue/tmux-config/blob/master/images/mouse-origin.gif?raw=true)
+![Mouse Mode](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/mouse-origin.gif)
