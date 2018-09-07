@@ -1,3 +1,7 @@
+## Introduce
+
+[tmux：打造精致与实用并存的终端](https://segmentfault.com/a/1190000008188987)
+
 ## Config
 ``` sh
 $ git clone git@github.com:shfshanyue/tmux-config.git
@@ -6,8 +10,8 @@ $ cp tmux-config/.tmux.conf ~/.tmux.conf
 
 ## Screencast
 
-![Screencast One](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/tmux1.jpeg)
-![Screencast One](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/tmux2.jpeg)
+![Screencast One](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/tmux1.jpeg)
+![Screencast One](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/tmux2.jpeg)
 
 ## Animation
 
@@ -18,7 +22,7 @@ $ tmux new -s shanyue   # 新建session
 $ tmux a -t shanyue     # attach
 ```
 
-![Attach](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/attach-origin.gif)
+![Attach](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/attach-origin.gif)
 
 ### Split
 ```
@@ -26,14 +30,14 @@ $ tmux a -t shanyue     # attach
 <prefix> + "  # 垂直分屏
 ```
 
-![Split Window](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/split-origin.gif)
+![Split Window](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/split-origin.gif)
 
 ### Multi Window
 ```
 <prefix> + c  # 新建窗口
 ```
 
-![Multi Window](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/multi-window.gif)
+![Multi Window](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/multi-window.gif)
 
 ### Find Window
 ```
@@ -42,21 +46,21 @@ $ tmux a -t shanyue     # attach
 <prefix> + a  # 切换到最近的窗口
 ```
 
-![Find Window](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/find-window.gif)
+![Find Window](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/find-window.gif)
 
 ### Next Layout
 ```
 <prefix> + space
 ```
 
-![Next Layout](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/respace.gif)
+![Next Layout](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/respace.gif)
 
 ### Maximise
 ```
 <prefix> + z
 ```
 
-![Maximise](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/prefixz-origin.gif)
+![Maximise](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/prefixz-origin.gif)
 
 ### Copy Mode
 ```
@@ -64,11 +68,11 @@ $ tmux a -t shanyue     # attach
 [Vim Goto Command]  # 任意 vim 跳转命令
 ```
 
-![Copy](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/copy-origin.gif)
+![Copy](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/copy-origin.gif)
 
 ### Mouse Mode
 ```
 $ tmux set mouse on # 通过鼠标滚动屏幕，切换窗口
 ```
 
-![Mouse Mode](https://raw.githubusercontent.com/shfshanyue/tmux-config/master/images/mouse-origin.gif)
+![Mouse Mode](https://raw.githubusercontent.com/shfshanyue/tmux-config/assets/mouse-origin.gif)
